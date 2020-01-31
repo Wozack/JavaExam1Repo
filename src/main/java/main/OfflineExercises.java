@@ -59,7 +59,7 @@ public class OfflineExercises {
 			return true;
 		}else if(c - b == a) {
 			return true;
-		}else if()
+		}
 		
 		return false;
 	}	
